@@ -51,21 +51,6 @@ Most businesses only know a customer churned _after_ it happened, that is, when 
 **Models used:** Logistic Regression · Random Forest · XGBoost
 **Evaluation:** Confusion Matrix · Precision / Recall · ROC-AUC
 
-## Project Structure
-
-```
-churn-prediction/
-├── data/
-│   └── telco_churn.csv
-├── notebooks/
-│   ├── 01_eda.ipynb
-│   ├── 02_modelling.ipynb
-│   └── 03_cost_benefit.ipynb
-├── outputs/
-│   └── retention_action_list.csv
-└── README.md
-```
-
 ## Results
 
 > _To be updated after modelling_
