@@ -180,3 +180,7 @@ Run notebooks in order:
 
 - Distributed under the **MIT License.**
 - See **LICENSE** for more information.
+
+---
+
+For full details, see the report in the repo titled `Data Consultancy Report_TelcoX.pdf`
