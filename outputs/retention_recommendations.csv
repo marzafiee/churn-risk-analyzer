@@ -1,0 +1,602 @@
+Churn_Probability,Risk_Tier,Actual_Churn,MonthlyCharges,tenure,Recommended_Action,Est_Revenue_At_Risk
+0.9303661,High risk,1,95.1,1,Priority outreach: offer loyalty discount immediately,1141.2
+0.9282529,High risk,1,85.05,1,Priority outreach: offer loyalty discount immediately,1020.6
+0.92004824,High risk,1,76.45,1,Priority outreach: offer loyalty discount immediately,917.4
+0.9148531,High risk,1,95.45,1,Priority outreach: offer loyalty discount immediately,1145.4
+0.9081538,High risk,1,77.15,1,Priority outreach: offer loyalty discount immediately,925.8
+0.9019162,High risk,1,105.9,3,Priority outreach: offer loyalty discount immediately,1270.8
+0.8945418,High risk,1,85.0,1,Priority outreach: offer loyalty discount immediately,1020.0
+0.8941368,High risk,1,90.85,1,Priority outreach: offer loyalty discount immediately,1090.2
+0.8843289,High risk,1,69.6,1,Priority outreach: offer loyalty discount immediately,835.2
+0.8841078,High risk,1,99.25,7,Priority outreach: offer loyalty discount immediately,1191.0
+0.8801861,High risk,1,79.5,1,Priority outreach: offer loyalty discount immediately,954.0
+0.8791731,High risk,1,98.05,7,Priority outreach: offer loyalty discount immediately,1176.6
+0.87812054,High risk,1,88.35,1,Priority outreach: offer loyalty discount immediately,1060.2
+0.87654,High risk,1,89.55,1,Priority outreach: offer loyalty discount immediately,1074.6
+0.87603986,High risk,0,85.0,1,Priority outreach: offer loyalty discount immediately,1020.0
+0.8752396,High risk,1,84.85,1,Priority outreach: offer loyalty discount immediately,1018.2
+0.87422943,High risk,1,69.25,1,Priority outreach: offer loyalty discount immediately,831.0
+0.8692223,High risk,1,100.95,3,Priority outreach: offer loyalty discount immediately,1211.4
+0.86910117,High risk,1,75.7,1,Priority outreach: offer loyalty discount immediately,908.4
+0.8680557,High risk,1,95.65,1,Priority outreach: offer loyalty discount immediately,1147.8
+0.8639255,High risk,0,79.15,1,Priority outreach: offer loyalty discount immediately,949.8
+0.8634841,High risk,1,101.95,7,Priority outreach: offer loyalty discount immediately,1223.4
+0.8600659,High risk,1,96.6,3,Priority outreach: offer loyalty discount immediately,1159.2
+0.8596129,High risk,1,69.1,1,Priority outreach: offer loyalty discount immediately,829.2
+0.8596129,High risk,1,69.55,1,Priority outreach: offer loyalty discount immediately,834.6
+0.8583164,High risk,1,74.5,1,Priority outreach: offer loyalty discount immediately,894.0
+0.85368454,High risk,0,91.45,2,Priority outreach: offer loyalty discount immediately,1097.4
+0.84910613,High risk,1,79.35,1,Priority outreach: offer loyalty discount immediately,952.2
+0.84868777,High risk,1,74.5,1,Priority outreach: offer loyalty discount immediately,894.0
+0.8480727,High risk,1,78.8,1,Priority outreach: offer loyalty discount immediately,945.6
+0.84651834,High risk,1,105.3,6,Priority outreach: offer loyalty discount immediately,1263.6
+0.8432347,High risk,1,85.55,1,Priority outreach: offer loyalty discount immediately,1026.6
+0.840705,High risk,0,99.3,9,Priority outreach: offer loyalty discount immediately,1191.6
+0.8371398,High risk,0,84.05,2,Priority outreach: offer loyalty discount immediately,1008.6
+0.83667415,High risk,1,70.0,1,Priority outreach: offer loyalty discount immediately,840.0
+0.83421946,High risk,1,69.9,1,Priority outreach: offer loyalty discount immediately,838.8
+0.83421946,High risk,0,69.9,1,Priority outreach: offer loyalty discount immediately,838.8
+0.83291894,High risk,1,69.5,1,Priority outreach: offer loyalty discount immediately,834.0
+0.8321536,High risk,1,76.35,1,Priority outreach: offer loyalty discount immediately,916.2
+0.83015513,High risk,0,94.1,7,Priority outreach: offer loyalty discount immediately,1129.2
+0.82600814,High risk,1,85.7,2,Priority outreach: offer loyalty discount immediately,1028.4
+0.8246438,High risk,1,71.0,1,Priority outreach: offer loyalty discount immediately,852.0
+0.82079476,High risk,0,74.3,1,Priority outreach: offer loyalty discount immediately,891.6
+0.82060385,High risk,0,90.75,6,Priority outreach: offer loyalty discount immediately,1089.0
+0.81898403,High risk,1,71.0,1,Priority outreach: offer loyalty discount immediately,852.0
+0.81898403,High risk,1,71.65,1,Priority outreach: offer loyalty discount immediately,859.8
+0.81846035,High risk,1,105.35,3,Priority outreach: offer loyalty discount immediately,1264.2
+0.81685466,High risk,1,94.2,2,Priority outreach: offer loyalty discount immediately,1130.4
+0.8132962,High risk,1,70.25,1,Priority outreach: offer loyalty discount immediately,843.0
+0.8132962,High risk,1,70.6,1,Priority outreach: offer loyalty discount immediately,847.2
+0.81074375,High risk,0,111.4,11,Priority outreach: offer loyalty discount immediately,1336.8
+0.8100373,High risk,1,80.5,1,Priority outreach: offer loyalty discount immediately,966.0
+0.80506533,High risk,1,89.2,4,Priority outreach: offer loyalty discount immediately,1070.4
+0.8017938,High risk,1,25.2,1,Priority outreach: offer loyalty discount immediately,302.4
+0.801374,High risk,1,84.6,4,Priority outreach: offer loyalty discount immediately,1015.2
+0.8008511,High risk,1,74.25,1,Priority outreach: offer loyalty discount immediately,891.0
+0.8004218,High risk,1,85.3,3,Priority outreach: offer loyalty discount immediately,1023.6
+0.7997199,High risk,0,84.0,5,Priority outreach: offer loyalty discount immediately,1008.0
+0.79934883,High risk,0,100.15,8,Priority outreach: offer loyalty discount immediately,1201.8
+0.7980442,High risk,0,94.05,6,Priority outreach: offer loyalty discount immediately,1128.6
+0.7970798,High risk,1,80.05,1,Priority outreach: offer loyalty discount immediately,960.6
+0.7961646,High risk,0,83.25,4,Priority outreach: offer loyalty discount immediately,999.0
+0.79438627,High risk,0,90.1,9,Priority outreach: offer loyalty discount immediately,1081.2
+0.7916748,High risk,1,102.45,1,Priority outreach: offer loyalty discount immediately,1229.4
+0.7909688,High risk,1,70.45,1,Priority outreach: offer loyalty discount immediately,845.4
+0.7861551,High risk,1,110.1,10,Priority outreach: offer loyalty discount immediately,1321.2
+0.7829557,High risk,1,87.05,8,Priority outreach: offer loyalty discount immediately,1044.6
+0.7779884,High risk,1,80.0,1,Priority outreach: offer loyalty discount immediately,960.0
+0.7749766,High risk,1,94.9,10,Priority outreach: offer loyalty discount immediately,1138.8
+0.7735792,High risk,1,35.55,1,Priority outreach: offer loyalty discount immediately,426.6
+0.77223885,High risk,1,77.0,3,Priority outreach: offer loyalty discount immediately,924.0
+0.771561,High risk,0,94.55,12,Priority outreach: offer loyalty discount immediately,1134.6
+0.76497966,High risk,1,59.85,1,Priority outreach: offer loyalty discount immediately,718.2
+0.76475745,High risk,1,75.85,3,Priority outreach: offer loyalty discount immediately,910.2
+0.76475745,High risk,1,76.05,4,Priority outreach: offer loyalty discount immediately,912.6
+0.76350373,High risk,1,90.4,2,Priority outreach: offer loyalty discount immediately,1084.8
+0.76056546,High risk,1,93.5,4,Priority outreach: offer loyalty discount immediately,1122.0
+0.75730586,High risk,1,99.8,4,Priority outreach: offer loyalty discount immediately,1197.6
+0.7570731,High risk,1,85.6,10,Priority outreach: offer loyalty discount immediately,1027.2
+0.7522943,High risk,1,25.05,1,Priority outreach: offer loyalty discount immediately,300.6
+0.75227445,High risk,1,84.4,9,Priority outreach: offer loyalty discount immediately,1012.8
+0.75094235,High risk,1,84.8,11,Priority outreach: offer loyalty discount immediately,1017.6
+0.7489771,High risk,1,75.5,3,Priority outreach: offer loyalty discount immediately,906.0
+0.7489771,High risk,0,74.95,3,Priority outreach: offer loyalty discount immediately,899.4
+0.7489771,High risk,1,75.55,2,Priority outreach: offer loyalty discount immediately,906.6
+0.7474432,High risk,1,98.35,26,Priority outreach: offer loyalty discount immediately,1180.2
+0.7473149,High risk,1,75.3,1,Priority outreach: offer loyalty discount immediately,903.6
+0.7468767,High risk,1,106.7,12,Priority outreach: offer loyalty discount immediately,1280.4
+0.7416814,High risk,1,41.15,3,Priority outreach: offer loyalty discount immediately,493.8
+0.7410616,High risk,1,55.4,1,Priority outreach: offer loyalty discount immediately,664.8
+0.739762,High risk,1,74.35,4,Priority outreach: offer loyalty discount immediately,892.2
+0.73804855,High risk,0,75.4,7,Priority outreach: offer loyalty discount immediately,904.8
+0.73804855,High risk,0,74.85,7,Priority outreach: offer loyalty discount immediately,898.2
+0.73706806,High risk,1,94.1,13,Priority outreach: offer loyalty discount immediately,1129.2
+0.7356531,High risk,1,96.4,16,Priority outreach: offer loyalty discount immediately,1156.8
+0.7339696,High risk,1,89.45,3,Priority outreach: offer loyalty discount immediately,1073.4
+0.73247594,High risk,1,74.9,6,Priority outreach: offer loyalty discount immediately,898.8
+0.73219085,High risk,0,55.25,1,Priority outreach: offer loyalty discount immediately,663.0
+0.72838986,High risk,1,95.65,8,Priority outreach: offer loyalty discount immediately,1147.8
+0.72786593,High risk,1,94.4,9,Priority outreach: offer loyalty discount immediately,1132.8
+0.7271646,High risk,1,30.4,2,Priority outreach: offer loyalty discount immediately,364.8
+0.72484475,High risk,0,89.15,7,Priority outreach: offer loyalty discount immediately,1069.8
+0.72338855,High risk,1,95.15,11,Priority outreach: offer loyalty discount immediately,1141.8
+0.72118527,High risk,1,79.6,2,Priority outreach: offer loyalty discount immediately,955.2
+0.7209745,High risk,0,74.85,8,Priority outreach: offer loyalty discount immediately,898.2
+0.7209745,High risk,0,73.5,8,Priority outreach: offer loyalty discount immediately,882.0
+0.7209745,High risk,0,75.25,8,Priority outreach: offer loyalty discount immediately,903.0
+0.7179084,High risk,1,102.25,13,Priority outreach: offer loyalty discount immediately,1227.0
+0.7165167,High risk,1,75.75,8,Priority outreach: offer loyalty discount immediately,909.0
+0.7164861,High risk,1,74.85,2,Priority outreach: offer loyalty discount immediately,898.2
+0.71326697,High risk,1,96.65,13,Priority outreach: offer loyalty discount immediately,1159.8
+0.71188176,High risk,0,85.95,6,Priority outreach: offer loyalty discount immediately,1031.4
+0.7100121,High risk,1,79.0,4,Priority outreach: offer loyalty discount immediately,948.0
+0.7099746,High risk,1,44.55,4,Priority outreach: offer loyalty discount immediately,534.6
+0.7093119,High risk,0,55.3,2,Priority outreach: offer loyalty discount immediately,663.6
+0.7086285,High risk,0,87.95,6,Priority outreach: offer loyalty discount immediately,1055.4
+0.705762,High risk,1,75.8,2,Priority outreach: offer loyalty discount immediately,909.6
+0.6999009,Medium risk,1,80.95,2,Schedule retention call within 2 weeks,971.4
+0.6992771,Medium risk,1,84.4,6,Schedule retention call within 2 weeks,1012.8
+0.69905275,Medium risk,1,104.85,14,Schedule retention call within 2 weeks,1258.2
+0.6950148,Medium risk,0,75.85,9,Schedule retention call within 2 weeks,910.2
+0.69471437,Medium risk,1,80.35,4,Schedule retention call within 2 weeks,964.2
+0.6944267,Medium risk,1,74.4,4,Schedule retention call within 2 weeks,892.8
+0.6903951,Medium risk,0,95.6,14,Schedule retention call within 2 weeks,1147.2
+0.6886225,Medium risk,1,73.5,1,Schedule retention call within 2 weeks,882.0
+0.6871021,Medium risk,1,74.4,7,Schedule retention call within 2 weeks,892.8
+0.6818891,Medium risk,1,104.25,24,Schedule retention call within 2 weeks,1251.0
+0.67934823,Medium risk,1,75.05,3,Schedule retention call within 2 weeks,900.6
+0.67873895,Medium risk,1,74.95,14,Schedule retention call within 2 weeks,899.4
+0.6786645,Medium risk,1,45.1,1,Schedule retention call within 2 weeks,541.2
+0.6786645,Medium risk,0,45.2,1,Schedule retention call within 2 weeks,542.4
+0.67839646,Medium risk,1,80.65,8,Schedule retention call within 2 weeks,967.8
+0.6762714,Medium risk,1,24.8,1,Schedule retention call within 2 weeks,297.6
+0.675739,Medium risk,1,25.05,1,Schedule retention call within 2 weeks,300.6
+0.6719376,Medium risk,1,98.15,13,Schedule retention call within 2 weeks,1177.8
+0.6687529,Medium risk,1,79.9,4,Schedule retention call within 2 weeks,958.8
+0.66810966,Medium risk,1,35.1,2,Schedule retention call within 2 weeks,421.2
+0.6667585,Medium risk,0,74.9,2,Schedule retention call within 2 weeks,898.8
+0.6665217,Medium risk,0,95.1,22,Schedule retention call within 2 weeks,1141.2
+0.663923,Medium risk,1,89.4,13,Schedule retention call within 2 weeks,1072.8
+0.6613192,Medium risk,0,75.4,16,Schedule retention call within 2 weeks,904.8
+0.659189,Medium risk,1,74.35,11,Schedule retention call within 2 weeks,892.2
+0.6576292,Medium risk,1,75.1,7,Schedule retention call within 2 weeks,901.2
+0.6572181,Medium risk,1,50.5,1,Schedule retention call within 2 weeks,606.0
+0.6560543,Medium risk,0,105.5,25,Schedule retention call within 2 weeks,1266.0
+0.6551863,Medium risk,1,74.7,2,Schedule retention call within 2 weeks,896.4
+0.6542598,Medium risk,0,73.85,6,Schedule retention call within 2 weeks,886.2
+0.6535945,Medium risk,1,80.5,6,Schedule retention call within 2 weeks,966.0
+0.65339684,Medium risk,0,98.9,10,Schedule retention call within 2 weeks,1186.8
+0.6532944,Medium risk,1,50.75,1,Schedule retention call within 2 weeks,609.0
+0.6532944,Medium risk,0,48.6,1,Schedule retention call within 2 weeks,583.2
+0.6525535,Medium risk,1,70.65,2,Schedule retention call within 2 weeks,847.8
+0.6466378,Medium risk,1,99.0,13,Schedule retention call within 2 weeks,1188.0
+0.6462588,Medium risk,0,50.05,1,Schedule retention call within 2 weeks,600.6
+0.6457585,Medium risk,0,98.85,46,Schedule retention call within 2 weeks,1186.2
+0.6452696,Medium risk,0,90.7,3,Schedule retention call within 2 weeks,1088.4
+0.6434844,Medium risk,0,80.0,3,Schedule retention call within 2 weeks,960.0
+0.64299154,Medium risk,0,89.85,3,Schedule retention call within 2 weeks,1078.2
+0.6406209,Medium risk,0,98.1,26,Schedule retention call within 2 weeks,1177.2
+0.63979334,Medium risk,1,70.95,2,Schedule retention call within 2 weeks,851.4
+0.63864875,Medium risk,1,42.6,2,Schedule retention call within 2 weeks,511.2
+0.6382523,Medium risk,0,71.05,7,Schedule retention call within 2 weeks,852.6
+0.6375948,Medium risk,1,94.2,2,Schedule retention call within 2 weeks,1130.4
+0.63634104,Medium risk,0,93.5,23,Schedule retention call within 2 weeks,1122.0
+0.63515943,Medium risk,0,70.15,3,Schedule retention call within 2 weeks,841.8
+0.63515943,Medium risk,0,70.3,2,Schedule retention call within 2 weeks,843.6
+0.63508224,Medium risk,1,85.4,5,Schedule retention call within 2 weeks,1024.8
+0.63230366,Medium risk,1,84.5,5,Schedule retention call within 2 weeks,1014.0
+0.63216096,Medium risk,0,91.0,15,Schedule retention call within 2 weeks,1092.0
+0.6313916,Medium risk,1,59.2,1,Schedule retention call within 2 weeks,710.4
+0.63040096,Medium risk,1,40.15,3,Schedule retention call within 2 weeks,481.8
+0.62962234,Medium risk,0,75.85,9,Schedule retention call within 2 weeks,910.2
+0.6285579,Medium risk,1,73.9,4,Schedule retention call within 2 weeks,886.8
+0.627691,Medium risk,1,89.5,25,Schedule retention call within 2 weeks,1074.0
+0.62544817,Medium risk,1,79.0,2,Schedule retention call within 2 weeks,948.0
+0.6247549,Medium risk,0,74.9,7,Schedule retention call within 2 weeks,898.8
+0.6237387,Medium risk,1,100.45,17,Schedule retention call within 2 weeks,1205.4
+0.6214295,Medium risk,0,79.75,9,Schedule retention call within 2 weeks,957.0
+0.6212776,Medium risk,1,67.75,2,Schedule retention call within 2 weeks,813.0
+0.6146747,Medium risk,1,99.1,15,Schedule retention call within 2 weeks,1189.2
+0.61427456,Medium risk,1,100.05,34,Schedule retention call within 2 weeks,1200.6
+0.6131992,Medium risk,1,25.3,3,Schedule retention call within 2 weeks,303.6
+0.6128121,Medium risk,1,79.4,15,Schedule retention call within 2 weeks,952.8
+0.6099419,Medium risk,0,90.4,4,Schedule retention call within 2 weeks,1084.8
+0.6097661,Medium risk,1,76.65,4,Schedule retention call within 2 weeks,919.8
+0.60946816,Medium risk,1,96.55,37,Schedule retention call within 2 weeks,1158.6
+0.60421324,Medium risk,0,75.05,3,Schedule retention call within 2 weeks,900.6
+0.60359514,Medium risk,1,80.8,9,Schedule retention call within 2 weeks,969.6
+0.60124564,Medium risk,1,69.7,5,Schedule retention call within 2 weeks,836.4
+0.6006177,Medium risk,1,77.85,4,Schedule retention call within 2 weeks,934.2
+0.599843,Medium risk,1,49.95,1,Schedule retention call within 2 weeks,599.4
+0.5996612,Medium risk,0,84.1,21,Schedule retention call within 2 weeks,1009.2
+0.59798807,Medium risk,1,80.55,2,Schedule retention call within 2 weeks,966.6
+0.59790534,Medium risk,1,29.65,4,Schedule retention call within 2 weeks,355.8
+0.5970512,Medium risk,0,90.35,5,Schedule retention call within 2 weeks,1084.2
+0.5968118,Medium risk,0,99.85,21,Schedule retention call within 2 weeks,1198.2
+0.5959268,Medium risk,0,105.0,19,Schedule retention call within 2 weeks,1260.0
+0.59320736,Medium risk,0,88.75,22,Schedule retention call within 2 weeks,1065.0
+0.587796,Medium risk,1,91.25,26,Schedule retention call within 2 weeks,1095.0
+0.58569854,Medium risk,1,96.05,18,Schedule retention call within 2 weeks,1152.6
+0.5854788,Medium risk,0,56.55,2,Schedule retention call within 2 weeks,678.6
+0.58494157,Medium risk,1,95.9,25,Schedule retention call within 2 weeks,1150.8
+0.5828939,Medium risk,1,106.4,47,Schedule retention call within 2 weeks,1276.8
+0.5828283,Medium risk,0,79.95,12,Schedule retention call within 2 weeks,959.4
+0.5825266,Medium risk,1,99.8,49,Schedule retention call within 2 weeks,1197.6
+0.58214444,Medium risk,0,100.3,42,Schedule retention call within 2 weeks,1203.6
+0.5801765,Medium risk,1,74.4,3,Schedule retention call within 2 weeks,892.8
+0.5801765,Medium risk,1,74.9,2,Schedule retention call within 2 weeks,898.8
+0.5774559,Medium risk,1,24.6,1,Schedule retention call within 2 weeks,295.2
+0.57687885,Medium risk,1,105.65,4,Schedule retention call within 2 weeks,1267.8
+0.57277304,Medium risk,0,69.7,8,Schedule retention call within 2 weeks,836.4
+0.5725624,Medium risk,1,75.0,3,Schedule retention call within 2 weeks,900.0
+0.572215,Medium risk,1,75.3,1,Schedule retention call within 2 weeks,903.6
+0.571511,Medium risk,0,99.3,43,Schedule retention call within 2 weeks,1191.6
+0.57138515,Medium risk,1,101.9,53,Schedule retention call within 2 weeks,1222.8
+0.5704349,Medium risk,1,83.9,6,Schedule retention call within 2 weeks,1006.8
+0.5671835,Medium risk,1,79.85,19,Schedule retention call within 2 weeks,958.2
+0.56682557,Medium risk,1,75.55,5,Schedule retention call within 2 weeks,906.6
+0.56569946,Medium risk,1,89.85,15,Schedule retention call within 2 weeks,1078.2
+0.5647885,Medium risk,1,87.25,14,Schedule retention call within 2 weeks,1047.0
+0.5630692,Medium risk,0,70.3,3,Schedule retention call within 2 weeks,843.6
+0.56272125,Medium risk,1,54.9,1,Schedule retention call within 2 weeks,658.8
+0.5616409,Medium risk,1,84.1,36,Schedule retention call within 2 weeks,1009.2
+0.5605165,Medium risk,0,102.6,38,Schedule retention call within 2 weeks,1231.2
+0.5594373,Medium risk,1,70.75,2,Schedule retention call within 2 weeks,849.0
+0.5587694,Medium risk,0,95.4,21,Schedule retention call within 2 weeks,1144.8
+0.55489147,Medium risk,1,106.35,34,Schedule retention call within 2 weeks,1276.2
+0.5548571,Medium risk,1,75.45,7,Schedule retention call within 2 weeks,905.4
+0.5544514,Medium risk,1,73.75,12,Schedule retention call within 2 weeks,885.0
+0.5521187,Medium risk,1,74.4,13,Schedule retention call within 2 weeks,892.8
+0.55112815,Medium risk,0,45.3,13,Schedule retention call within 2 weeks,543.6
+0.54863644,Medium risk,0,90.45,23,Schedule retention call within 2 weeks,1085.4
+0.5472306,Medium risk,1,69.55,3,Schedule retention call within 2 weeks,834.6
+0.54689837,Medium risk,0,69.6,3,Schedule retention call within 2 weeks,835.2
+0.5466841,Medium risk,0,96.55,20,Schedule retention call within 2 weeks,1158.6
+0.5460463,Medium risk,1,50.45,1,Schedule retention call within 2 weeks,605.4
+0.54467475,Medium risk,1,86.5,21,Schedule retention call within 2 weeks,1038.0
+0.54466337,Medium risk,1,77.65,9,Schedule retention call within 2 weeks,931.8
+0.54462916,Medium risk,0,75.65,5,Schedule retention call within 2 weeks,907.8
+0.5445985,Medium risk,1,85.0,30,Schedule retention call within 2 weeks,1020.0
+0.5438626,Medium risk,0,78.95,6,Schedule retention call within 2 weeks,947.4
+0.54382676,Medium risk,0,45.8,1,Schedule retention call within 2 weeks,549.6
+0.54382676,Medium risk,1,45.4,1,Schedule retention call within 2 weeks,544.8
+0.54382676,Medium risk,1,45.85,1,Schedule retention call within 2 weeks,550.2
+0.543769,Medium risk,1,53.5,1,Schedule retention call within 2 weeks,642.0
+0.5436319,Medium risk,1,83.75,3,Schedule retention call within 2 weeks,1005.0
+0.54333025,Medium risk,0,104.45,46,Schedule retention call within 2 weeks,1253.4
+0.54306555,Medium risk,0,78.75,5,Schedule retention call within 2 weeks,945.0
+0.5426878,Medium risk,0,24.2,1,Schedule retention call within 2 weeks,290.4
+0.54213756,Medium risk,1,70.0,10,Schedule retention call within 2 weeks,840.0
+0.541988,Medium risk,1,99.7,30,Schedule retention call within 2 weeks,1196.4
+0.5411654,Medium risk,0,44.0,1,Schedule retention call within 2 weeks,528.0
+0.53770363,Medium risk,1,100.2,30,Schedule retention call within 2 weeks,1202.4
+0.53740966,Medium risk,0,24.95,9,Schedule retention call within 2 weeks,299.4
+0.53734255,Medium risk,0,54.2,3,Schedule retention call within 2 weeks,650.4
+0.53691673,Medium risk,1,89.4,22,Schedule retention call within 2 weeks,1072.8
+0.53570557,Medium risk,1,90.2,20,Schedule retention call within 2 weeks,1082.4
+0.5349012,Medium risk,0,49.95,2,Schedule retention call within 2 weeks,599.4
+0.53477806,Medium risk,0,79.55,12,Schedule retention call within 2 weeks,954.6
+0.5328402,Medium risk,0,90.4,3,Schedule retention call within 2 weeks,1084.8
+0.5319124,Medium risk,0,103.85,21,Schedule retention call within 2 weeks,1246.2
+0.53069115,Medium risk,0,80.5,24,Schedule retention call within 2 weeks,966.0
+0.5299424,Medium risk,0,104.6,22,Schedule retention call within 2 weeks,1255.2
+0.52950466,Medium risk,0,25.35,1,Schedule retention call within 2 weeks,304.2
+0.52900445,Medium risk,0,69.9,7,Schedule retention call within 2 weeks,838.8
+0.52859175,Medium risk,1,74.4,2,Schedule retention call within 2 weeks,892.8
+0.5284908,Medium risk,1,90.35,24,Schedule retention call within 2 weeks,1084.2
+0.5278066,Medium risk,0,90.65,4,Schedule retention call within 2 weeks,1087.8
+0.52652764,Medium risk,0,74.55,3,Schedule retention call within 2 weeks,894.6
+0.5240784,Medium risk,0,100.0,33,Schedule retention call within 2 weeks,1200.0
+0.5231059,Medium risk,1,99.45,69,Schedule retention call within 2 weeks,1193.4
+0.52244675,Medium risk,1,76.5,37,Schedule retention call within 2 weeks,918.0
+0.5208736,Medium risk,0,49.9,1,Schedule retention call within 2 weeks,598.8
+0.5208736,Medium risk,1,52.2,1,Schedule retention call within 2 weeks,626.4
+0.52030706,Medium risk,0,64.0,5,Schedule retention call within 2 weeks,768.0
+0.52003646,Medium risk,0,74.85,9,Schedule retention call within 2 weeks,898.2
+0.518111,Medium risk,0,70.05,5,Schedule retention call within 2 weeks,840.6
+0.5169442,Medium risk,1,44.15,1,Schedule retention call within 2 weeks,529.8
+0.51583576,Medium risk,0,49.95,1,Schedule retention call within 2 weeks,599.4
+0.51506865,Medium risk,0,78.3,13,Schedule retention call within 2 weeks,939.6
+0.51473355,Medium risk,0,70.35,2,Schedule retention call within 2 weeks,844.2
+0.514086,Medium risk,0,99.05,54,Schedule retention call within 2 weeks,1188.6
+0.5129905,Medium risk,0,81.15,31,Schedule retention call within 2 weeks,973.8
+0.5125623,Medium risk,1,44.95,2,Schedule retention call within 2 weeks,539.4
+0.51207423,Medium risk,1,95.55,27,Schedule retention call within 2 weeks,1146.6
+0.51193595,Medium risk,1,76.1,24,Schedule retention call within 2 weeks,913.2
+0.5118842,Medium risk,1,104.75,42,Schedule retention call within 2 weeks,1257.0
+0.51139563,Medium risk,0,74.1,6,Schedule retention call within 2 weeks,889.2
+0.50911546,Medium risk,1,76.25,37,Schedule retention call within 2 weeks,915.0
+0.5064913,Medium risk,1,78.05,27,Schedule retention call within 2 weeks,936.6
+0.5054165,Medium risk,1,80.85,13,Schedule retention call within 2 weeks,970.2
+0.50520337,Medium risk,1,89.75,7,Schedule retention call within 2 weeks,1077.0
+0.5047921,Medium risk,0,106.15,60,Schedule retention call within 2 weeks,1273.8
+0.5042083,Medium risk,0,89.95,20,Schedule retention call within 2 weeks,1079.4
+0.5031608,Medium risk,1,43.3,3,Schedule retention call within 2 weeks,519.6
+0.5021172,Medium risk,0,85.75,26,Schedule retention call within 2 weeks,1029.0
+0.50118506,Medium risk,1,74.95,23,Schedule retention call within 2 weeks,899.4
+0.50037754,Medium risk,1,89.05,13,Schedule retention call within 2 weeks,1068.6
+0.50026613,Medium risk,1,84.3,15,Schedule retention call within 2 weeks,1011.6
+0.49909374,Low risk,1,78.9,32,Monitor and include in next email campaign,946.8
+0.4985833,Low risk,0,24.9,2,Monitor and include in next email campaign,298.8
+0.4985485,Low risk,0,94.75,38,Monitor and include in next email campaign,1137.0
+0.4967996,Low risk,0,80.0,13,Monitor and include in next email campaign,960.0
+0.49679193,Low risk,0,101.15,38,Monitor and include in next email campaign,1213.8
+0.49606323,Low risk,0,81.2,40,Monitor and include in next email campaign,974.4
+0.49519247,Low risk,0,83.55,17,Monitor and include in next email campaign,1002.6
+0.49473992,Low risk,0,101.3,30,Monitor and include in next email campaign,1215.6
+0.49413478,Low risk,0,55.3,4,Monitor and include in next email campaign,663.6
+0.49288768,Low risk,0,70.7,2,Monitor and include in next email campaign,848.4
+0.49217957,Low risk,1,102.8,21,Monitor and include in next email campaign,1233.6
+0.49124548,Low risk,0,99.15,21,Monitor and include in next email campaign,1189.8
+0.49084523,Low risk,1,90.45,14,Monitor and include in next email campaign,1085.4
+0.48904234,Low risk,1,20.1,1,Monitor and include in next email campaign,241.2
+0.48880595,Low risk,1,113.2,41,Monitor and include in next email campaign,1358.4
+0.4885363,Low risk,0,90.6,11,Monitor and include in next email campaign,1087.2
+0.48847038,Low risk,1,45.95,1,Monitor and include in next email campaign,551.4
+0.48837647,Low risk,0,100.85,34,Monitor and include in next email campaign,1210.2
+0.48821712,Low risk,1,45.95,1,Monitor and include in next email campaign,551.4
+0.48633328,Low risk,0,50.3,2,Monitor and include in next email campaign,603.6
+0.48538914,Low risk,0,49.0,15,Monitor and include in next email campaign,588.0
+0.48384118,Low risk,0,96.35,34,Monitor and include in next email campaign,1156.2
+0.48298448,Low risk,1,85.25,36,Monitor and include in next email campaign,1023.0
+0.48293155,Low risk,1,72.65,16,Monitor and include in next email campaign,871.8
+0.48254526,Low risk,0,72.75,4,Monitor and include in next email campaign,873.0
+0.48170194,Low risk,1,50.45,1,Monitor and include in next email campaign,605.4
+0.48167506,Low risk,0,19.9,1,Monitor and include in next email campaign,238.8
+0.48162705,Low risk,0,101.4,67,Monitor and include in next email campaign,1216.8
+0.48107326,Low risk,1,74.3,16,Monitor and include in next email campaign,891.6
+0.48007974,Low risk,1,95.05,50,Monitor and include in next email campaign,1140.6
+0.479949,Low risk,0,98.85,32,Monitor and include in next email campaign,1186.2
+0.47968465,Low risk,1,94.25,34,Monitor and include in next email campaign,1131.0
+0.47903368,Low risk,0,53.95,41,Monitor and include in next email campaign,647.4
+0.47881123,Low risk,1,69.95,5,Monitor and include in next email campaign,839.4
+0.47795537,Low risk,0,95.95,18,Monitor and include in next email campaign,1151.4
+0.474787,Low risk,0,78.15,10,Monitor and include in next email campaign,937.8
+0.4742177,Low risk,1,49.15,52,Monitor and include in next email campaign,589.8
+0.47365725,Low risk,1,45.35,2,Monitor and include in next email campaign,544.2
+0.47290486,Low risk,0,69.95,5,Monitor and include in next email campaign,839.4
+0.47229376,Low risk,0,84.6,12,Monitor and include in next email campaign,1015.2
+0.4718689,Low risk,1,69.75,2,Monitor and include in next email campaign,837.0
+0.4718689,Low risk,1,70.0,2,Monitor and include in next email campaign,840.0
+0.47161078,Low risk,0,100.7,16,Monitor and include in next email campaign,1208.4
+0.46856475,Low risk,0,109.1,52,Monitor and include in next email campaign,1309.2
+0.46595737,Low risk,1,79.15,20,Monitor and include in next email campaign,949.8
+0.4659236,Low risk,0,48.75,4,Monitor and include in next email campaign,585.0
+0.46454316,Low risk,0,69.65,16,Monitor and include in next email campaign,835.8
+0.46399787,Low risk,1,25.25,3,Monitor and include in next email campaign,303.0
+0.46301153,Low risk,1,21.0,1,Monitor and include in next email campaign,252.0
+0.4613822,Low risk,1,100.95,19,Monitor and include in next email campaign,1211.4
+0.4613037,Low risk,0,44.75,1,Monitor and include in next email campaign,537.0
+0.46101728,Low risk,1,50.15,2,Monitor and include in next email campaign,601.8
+0.45947805,Low risk,1,90.6,23,Monitor and include in next email campaign,1087.2
+0.45652965,Low risk,1,50.6,5,Monitor and include in next email campaign,607.2
+0.45630953,Low risk,1,98.75,47,Monitor and include in next email campaign,1185.0
+0.4561166,Low risk,1,75.5,27,Monitor and include in next email campaign,906.0
+0.455462,Low risk,0,49.8,17,Monitor and include in next email campaign,597.6
+0.4552849,Low risk,1,48.75,13,Monitor and include in next email campaign,585.0
+0.4550021,Low risk,0,29.9,3,Monitor and include in next email campaign,358.8
+0.45461082,Low risk,0,80.15,22,Monitor and include in next email campaign,961.8
+0.45284697,Low risk,1,74.4,32,Monitor and include in next email campaign,892.8
+0.45241386,Low risk,0,83.15,35,Monitor and include in next email campaign,997.8
+0.4517161,Low risk,1,85.8,20,Monitor and include in next email campaign,1029.6
+0.45133686,Low risk,1,81.05,28,Monitor and include in next email campaign,972.6
+0.4495923,Low risk,0,106.5,41,Monitor and include in next email campaign,1278.0
+0.44936764,Low risk,1,90.7,18,Monitor and include in next email campaign,1088.4
+0.4489435,Low risk,0,84.15,22,Monitor and include in next email campaign,1009.8
+0.44831142,Low risk,0,86.05,21,Monitor and include in next email campaign,1032.6
+0.44816417,Low risk,0,99.8,60,Monitor and include in next email campaign,1197.6
+0.44542563,Low risk,0,79.3,29,Monitor and include in next email campaign,951.6
+0.4438418,Low risk,1,29.95,1,Monitor and include in next email campaign,359.4
+0.44345868,Low risk,0,100.55,29,Monitor and include in next email campaign,1206.6
+0.44234157,Low risk,0,84.35,15,Monitor and include in next email campaign,1012.2
+0.44096512,Low risk,0,55.0,57,Monitor and include in next email campaign,660.0
+0.44048086,Low risk,0,94.65,67,Monitor and include in next email campaign,1135.8
+0.43899885,Low risk,0,55.3,16,Monitor and include in next email campaign,663.6
+0.4388168,Low risk,1,23.9,13,Monitor and include in next email campaign,286.8
+0.4387465,Low risk,1,99.5,66,Monitor and include in next email campaign,1194.0
+0.43754333,Low risk,1,41.6,11,Monitor and include in next email campaign,499.2
+0.43559,Low risk,0,97.7,34,Monitor and include in next email campaign,1172.4
+0.43473002,Low risk,1,90.85,36,Monitor and include in next email campaign,1090.2
+0.43424475,Low risk,0,88.95,24,Monitor and include in next email campaign,1067.4
+0.43275082,Low risk,0,43.95,1,Monitor and include in next email campaign,527.4
+0.43201545,Low risk,1,96.2,32,Monitor and include in next email campaign,1154.4
+0.43024534,Low risk,1,89.05,16,Monitor and include in next email campaign,1068.6
+0.42916304,Low risk,0,84.25,23,Monitor and include in next email campaign,1011.0
+0.42904395,Low risk,0,70.2,11,Monitor and include in next email campaign,842.4
+0.42766255,Low risk,0,50.3,18,Monitor and include in next email campaign,603.6
+0.42696235,Low risk,0,89.1,22,Monitor and include in next email campaign,1069.2
+0.42599022,Low risk,0,49.8,1,Monitor and include in next email campaign,597.6
+0.42568144,Low risk,0,44.3,59,Monitor and include in next email campaign,531.6
+0.42444703,Low risk,1,49.9,3,Monitor and include in next email campaign,598.8
+0.42373368,Low risk,0,25.0,3,Monitor and include in next email campaign,300.0
+0.42304358,Low risk,0,86.1,32,Monitor and include in next email campaign,1033.2
+0.420384,Low risk,0,19.55,1,Monitor and include in next email campaign,234.6
+0.42026362,Low risk,0,83.85,31,Monitor and include in next email campaign,1006.2
+0.41868547,Low risk,1,35.2,3,Monitor and include in next email campaign,422.4
+0.41851002,Low risk,0,70.55,35,Monitor and include in next email campaign,846.6
+0.41825256,Low risk,0,68.65,21,Monitor and include in next email campaign,823.8
+0.41795298,Low risk,1,86.0,19,Monitor and include in next email campaign,1032.0
+0.4174539,Low risk,0,48.75,1,Monitor and include in next email campaign,585.0
+0.41744506,Low risk,0,53.8,5,Monitor and include in next email campaign,645.6
+0.41712013,Low risk,0,57.2,4,Monitor and include in next email campaign,686.4
+0.41670507,Low risk,1,29.95,9,Monitor and include in next email campaign,359.4
+0.41499025,Low risk,1,89.25,22,Monitor and include in next email campaign,1071.0
+0.41478136,Low risk,0,57.55,3,Monitor and include in next email campaign,690.6
+0.41424495,Low risk,0,94.3,43,Monitor and include in next email campaign,1131.6
+0.4133754,Low risk,0,108.2,20,Monitor and include in next email campaign,1298.4
+0.41323632,Low risk,0,90.05,54,Monitor and include in next email campaign,1080.6
+0.41291282,Low risk,0,49.15,13,Monitor and include in next email campaign,589.8
+0.41281137,Low risk,0,66.85,7,Monitor and include in next email campaign,802.2
+0.4120152,Low risk,0,103.75,40,Monitor and include in next email campaign,1245.0
+0.40963817,Low risk,1,76.65,17,Monitor and include in next email campaign,919.8
+0.4092922,Low risk,1,81.7,12,Monitor and include in next email campaign,980.4
+0.40771076,Low risk,0,84.35,24,Monitor and include in next email campaign,1012.2
+0.4076301,Low risk,1,91.15,31,Monitor and include in next email campaign,1093.8
+0.40431494,Low risk,1,90.5,22,Monitor and include in next email campaign,1086.0
+0.40429354,Low risk,1,80.6,33,Monitor and include in next email campaign,967.2
+0.40423703,Low risk,0,19.95,1,Monitor and include in next email campaign,239.4
+0.40194973,Low risk,0,74.0,55,Monitor and include in next email campaign,888.0
+0.40174156,Low risk,0,92.4,26,Monitor and include in next email campaign,1108.8
+0.40067735,Low risk,1,84.15,32,Monitor and include in next email campaign,1009.8
+0.40048927,Low risk,1,20.2,1,Monitor and include in next email campaign,242.4
+0.40048927,Low risk,1,20.2,1,Monitor and include in next email campaign,242.4
+0.39948714,Low risk,0,104.75,56,Monitor and include in next email campaign,1257.0
+0.39566493,Low risk,0,19.4,1,Monitor and include in next email campaign,232.8
+0.39322355,Low risk,0,20.05,1,Monitor and include in next email campaign,240.6
+0.39271966,Low risk,0,19.9,1,Monitor and include in next email campaign,238.8
+0.39231813,Low risk,0,20.05,1,Monitor and include in next email campaign,240.6
+0.39199415,Low risk,0,72.25,37,Monitor and include in next email campaign,867.0
+0.3908437,Low risk,1,20.55,1,Monitor and include in next email campaign,246.6
+0.3908437,Low risk,0,20.7,1,Monitor and include in next email campaign,248.4
+0.3899583,Low risk,0,51.2,1,Monitor and include in next email campaign,614.4
+0.3887343,Low risk,1,34.7,9,Monitor and include in next email campaign,416.4
+0.38853073,Low risk,1,76.45,7,Monitor and include in next email campaign,917.4
+0.38834268,Low risk,0,94.05,7,Monitor and include in next email campaign,1128.6
+0.38832667,Low risk,1,19.3,1,Monitor and include in next email campaign,231.6
+0.38820687,Low risk,0,85.65,32,Monitor and include in next email campaign,1027.8
+0.38810518,Low risk,1,53.95,1,Monitor and include in next email campaign,647.4
+0.3879975,Low risk,0,95.9,22,Monitor and include in next email campaign,1150.8
+0.38656884,Low risk,1,80.85,17,Monitor and include in next email campaign,970.2
+0.3863496,Low risk,1,33.9,10,Monitor and include in next email campaign,406.8
+0.38513774,Low risk,0,73.1,55,Monitor and include in next email campaign,877.2
+0.38385907,Low risk,0,50.35,6,Monitor and include in next email campaign,604.2
+0.383837,Low risk,0,51.0,5,Monitor and include in next email campaign,612.0
+0.3831191,Low risk,1,74.95,38,Monitor and include in next email campaign,899.4
+0.3830165,Low risk,1,79.6,34,Monitor and include in next email campaign,955.2
+0.3822415,Low risk,1,85.35,17,Monitor and include in next email campaign,1024.2
+0.38038754,Low risk,0,91.15,37,Monitor and include in next email campaign,1093.8
+0.38035908,Low risk,0,105.35,33,Monitor and include in next email campaign,1264.2
+0.38017732,Low risk,1,30.5,6,Monitor and include in next email campaign,366.0
+0.3781419,Low risk,1,99.15,61,Monitor and include in next email campaign,1189.8
+0.3766438,Low risk,0,91.25,33,Monitor and include in next email campaign,1095.0
+0.37562084,Low risk,0,20.6,1,Monitor and include in next email campaign,247.2
+0.37562084,Low risk,0,20.8,1,Monitor and include in next email campaign,249.6
+0.37455502,Low risk,0,34.65,23,Monitor and include in next email campaign,415.8
+0.37300268,Low risk,0,103.95,50,Monitor and include in next email campaign,1247.4
+0.3716806,Low risk,1,96.05,46,Monitor and include in next email campaign,1152.6
+0.37030384,Low risk,1,44.65,1,Monitor and include in next email campaign,535.8
+0.37025806,Low risk,0,99.9,61,Monitor and include in next email campaign,1198.8
+0.37024325,Low risk,1,95.15,18,Monitor and include in next email campaign,1141.8
+0.3687819,Low risk,1,80.35,32,Monitor and include in next email campaign,964.2
+0.36517262,Low risk,0,19.45,1,Monitor and include in next email campaign,233.4
+0.36418498,Low risk,1,86.2,15,Monitor and include in next email campaign,1034.4
+0.36392412,Low risk,1,69.35,3,Monitor and include in next email campaign,832.2
+0.3638183,Low risk,0,69.95,3,Monitor and include in next email campaign,839.4
+0.36379611,Low risk,0,49.2,2,Monitor and include in next email campaign,590.4
+0.3630141,Low risk,0,26.05,21,Monitor and include in next email campaign,312.6
+0.36115047,Low risk,0,79.65,24,Monitor and include in next email campaign,955.8
+0.36035565,Low risk,1,49.25,1,Monitor and include in next email campaign,591.0
+0.35956004,Low risk,1,96.75,55,Monitor and include in next email campaign,1161.0
+0.35865957,Low risk,0,94.2,29,Monitor and include in next email campaign,1130.4
+0.35714114,Low risk,0,70.4,33,Monitor and include in next email campaign,844.8
+0.35712865,Low risk,0,107.75,45,Monitor and include in next email campaign,1293.0
+0.35671562,Low risk,0,80.7,20,Monitor and include in next email campaign,968.4
+0.356689,Low risk,0,80.55,18,Monitor and include in next email campaign,966.6
+0.35663527,Low risk,0,102.7,52,Monitor and include in next email campaign,1232.4
+0.35637537,Low risk,0,43.75,9,Monitor and include in next email campaign,525.0
+0.35620707,Low risk,0,98.85,51,Monitor and include in next email campaign,1186.2
+0.35593495,Low risk,0,108.95,35,Monitor and include in next email campaign,1307.4
+0.35587102,Low risk,0,106.05,70,Monitor and include in next email campaign,1272.6
+0.35465243,Low risk,1,62.05,1,Monitor and include in next email campaign,744.6
+0.35422656,Low risk,1,93.8,31,Monitor and include in next email campaign,1125.6
+0.35314447,Low risk,1,72.15,10,Monitor and include in next email campaign,865.8
+0.3521076,Low risk,0,55.2,4,Monitor and include in next email campaign,662.4
+0.35200545,Low risk,0,89.85,57,Monitor and include in next email campaign,1078.2
+0.35137817,Low risk,0,94.1,43,Monitor and include in next email campaign,1129.2
+0.34952003,Low risk,0,99.0,60,Monitor and include in next email campaign,1188.0
+0.3487141,Low risk,0,19.25,1,Monitor and include in next email campaign,231.0
+0.34790492,Low risk,1,95.25,57,Monitor and include in next email campaign,1143.0
+0.3464495,Low risk,0,88.4,25,Monitor and include in next email campaign,1060.8
+0.3460651,Low risk,1,45.05,17,Monitor and include in next email campaign,540.6
+0.34482807,Low risk,0,83.85,40,Monitor and include in next email campaign,1006.2
+0.34429824,Low risk,0,29.1,24,Monitor and include in next email campaign,349.2
+0.3418745,Low risk,0,100.05,22,Monitor and include in next email campaign,1200.6
+0.3418164,Low risk,0,55.8,3,Monitor and include in next email campaign,669.6
+0.34177014,Low risk,0,111.5,44,Monitor and include in next email campaign,1338.0
+0.3414199,Low risk,1,71.05,50,Monitor and include in next email campaign,852.6
+0.34124464,Low risk,1,40.65,24,Monitor and include in next email campaign,487.8
+0.3408003,Low risk,0,75.6,18,Monitor and include in next email campaign,907.2
+0.33997858,Low risk,1,89.15,25,Monitor and include in next email campaign,1069.8
+0.3378851,Low risk,0,84.3,26,Monitor and include in next email campaign,1011.6
+0.33687145,Low risk,0,48.95,6,Monitor and include in next email campaign,587.4
+0.335672,Low risk,0,98.25,50,Monitor and include in next email campaign,1179.0
+0.33438855,Low risk,0,103.5,63,Monitor and include in next email campaign,1242.0
+0.33403668,Low risk,1,106.75,37,Monitor and include in next email campaign,1281.0
+0.33383608,Low risk,0,105.2,69,Monitor and include in next email campaign,1262.4
+0.33264118,Low risk,0,109.05,65,Monitor and include in next email campaign,1308.6
+0.3303925,Low risk,0,74.25,41,Monitor and include in next email campaign,891.0
+0.32787517,Low risk,0,19.75,1,Monitor and include in next email campaign,237.0
+0.3273447,Low risk,0,78.85,40,Monitor and include in next email campaign,946.2
+0.32677567,Low risk,0,100.75,57,Monitor and include in next email campaign,1209.0
+0.3256087,Low risk,0,78.75,13,Monitor and include in next email campaign,945.0
+0.3256057,Low risk,0,86.1,45,Monitor and include in next email campaign,1033.2
+0.32395256,Low risk,0,68.55,8,Monitor and include in next email campaign,822.6
+0.3224179,Low risk,1,31.0,3,Monitor and include in next email campaign,372.0
+0.32225016,Low risk,0,69.1,16,Monitor and include in next email campaign,829.2
+0.3214923,Low risk,1,19.8,1,Monitor and include in next email campaign,237.6
+0.3214923,Low risk,0,19.75,1,Monitor and include in next email campaign,237.0
+0.3214923,Low risk,1,19.75,1,Monitor and include in next email campaign,237.0
+0.31966212,Low risk,0,89.05,22,Monitor and include in next email campaign,1068.6
+0.31888145,Low risk,0,85.95,24,Monitor and include in next email campaign,1031.4
+0.3178927,Low risk,0,48.65,5,Monitor and include in next email campaign,583.8
+0.3171712,Low risk,1,79.2,40,Monitor and include in next email campaign,950.4
+0.315367,Low risk,0,48.2,7,Monitor and include in next email campaign,578.4
+0.31035867,Low risk,0,45.9,29,Monitor and include in next email campaign,550.8
+0.3088897,Low risk,0,87.9,18,Monitor and include in next email campaign,1054.8
+0.30777496,Low risk,0,44.8,4,Monitor and include in next email campaign,537.6
+0.30696246,Low risk,0,81.3,41,Monitor and include in next email campaign,975.6
+0.3067598,Low risk,0,25.15,19,Monitor and include in next email campaign,301.8
+0.30626217,Low risk,1,49.9,1,Monitor and include in next email campaign,598.8
+0.30620533,Low risk,0,35.65,11,Monitor and include in next email campaign,427.8
+0.30530182,Low risk,0,99.0,42,Monitor and include in next email campaign,1188.0
+0.3050905,Low risk,0,94.3,30,Monitor and include in next email campaign,1131.6
+0.3043038,Low risk,0,100.55,56,Monitor and include in next email campaign,1206.6
+0.30409655,Low risk,0,108.55,71,Monitor and include in next email campaign,1302.6
+0.30183503,Low risk,1,111.1,54,Monitor and include in next email campaign,1333.2
+0.3016201,Low risk,1,20.4,1,Monitor and include in next email campaign,244.8
+0.3016201,Low risk,0,20.45,1,Monitor and include in next email campaign,245.4
+0.3016201,Low risk,0,20.3,1,Monitor and include in next email campaign,243.6
+0.3016201,Low risk,1,20.25,1,Monitor and include in next email campaign,243.0
+0.30040658,Low risk,0,114.1,61,Monitor and include in next email campaign,1369.2
+0.30040258,Low risk,1,19.4,1,Monitor and include in next email campaign,232.8
+0.2986622,Low risk,0,55.3,9,Monitor and include in next email campaign,663.6
+0.2972972,Low risk,1,39.1,24,Monitor and include in next email campaign,469.2
+0.29664096,Low risk,0,50.8,4,Monitor and include in next email campaign,609.6
+0.29642254,Low risk,1,56.7,2,Monitor and include in next email campaign,680.4
+0.29481462,Low risk,0,20.75,1,Monitor and include in next email campaign,249.0
+0.29377332,Low risk,0,48.8,15,Monitor and include in next email campaign,585.6
+0.29336163,Low risk,1,53.85,5,Monitor and include in next email campaign,646.2
+0.29315913,Low risk,0,69.7,22,Monitor and include in next email campaign,836.4
+0.29253602,Low risk,0,75.3,23,Monitor and include in next email campaign,903.6
+0.29198322,Low risk,0,100.55,43,Monitor and include in next email campaign,1206.6
+0.29123506,Low risk,1,100.5,35,Monitor and include in next email campaign,1206.0
+0.28968078,Low risk,1,106.25,65,Monitor and include in next email campaign,1275.0
+0.2894674,Low risk,1,87.55,36,Monitor and include in next email campaign,1050.6
+0.28941345,Low risk,0,69.8,20,Monitor and include in next email campaign,837.6
+0.2889345,Low risk,1,85.0,46,Monitor and include in next email campaign,1020.0
+0.28867397,Low risk,1,34.5,7,Monitor and include in next email campaign,414.0
+0.2871849,Low risk,1,55.2,10,Monitor and include in next email campaign,662.4
+0.2867284,Low risk,0,58.95,11,Monitor and include in next email campaign,707.4
+0.28666246,Low risk,0,25.75,1,Monitor and include in next email campaign,309.0
+0.28567415,Low risk,0,19.65,1,Monitor and include in next email campaign,235.8
+0.28545377,Low risk,1,46.0,5,Monitor and include in next email campaign,552.0
+0.28418678,Low risk,0,28.5,21,Monitor and include in next email campaign,342.0
+0.2839566,Low risk,0,91.0,20,Monitor and include in next email campaign,1092.0
+0.283848,Low risk,0,69.5,38,Monitor and include in next email campaign,834.0
+0.2826568,Low risk,0,100.0,39,Monitor and include in next email campaign,1200.0
+0.28204757,Low risk,0,54.25,10,Monitor and include in next email campaign,651.0
+0.28180876,Low risk,1,89.05,25,Monitor and include in next email campaign,1068.6
+0.28073654,Low risk,0,78.2,18,Monitor and include in next email campaign,938.4
+0.27946115,Low risk,1,103.75,62,Monitor and include in next email campaign,1245.0
+0.2777505,Low risk,0,88.8,19,Monitor and include in next email campaign,1065.6
+0.2767054,Low risk,0,69.75,25,Monitor and include in next email campaign,837.0
+0.27534255,Low risk,0,97.95,49,Monitor and include in next email campaign,1175.4
+0.27351946,Low risk,0,110.35,65,Monitor and include in next email campaign,1324.2
+0.27257803,Low risk,0,107.25,56,Monitor and include in next email campaign,1287.0
+0.27220726,Low risk,0,64.5,3,Monitor and include in next email campaign,774.0
+0.27220622,Low risk,0,67.25,12,Monitor and include in next email campaign,807.0
+0.27182153,Low risk,0,44.65,26,Monitor and include in next email campaign,535.8
+0.27064154,Low risk,0,89.15,46,Monitor and include in next email campaign,1069.8
+0.2702977,Low risk,1,69.0,15,Monitor and include in next email campaign,828.0
+0.2697763,Low risk,1,49.35,4,Monitor and include in next email campaign,592.2
+0.26811406,Low risk,1,106.95,53,Monitor and include in next email campaign,1283.4
+0.26730105,Low risk,0,99.1,39,Monitor and include in next email campaign,1189.2
+0.26671845,Low risk,1,75.6,23,Monitor and include in next email campaign,907.2
+0.26633164,Low risk,1,55.95,13,Monitor and include in next email campaign,671.4
+0.26625553,Low risk,0,108.1,48,Monitor and include in next email campaign,1297.2
+0.26327196,Low risk,0,105.7,67,Monitor and include in next email campaign,1268.4
+0.2632145,Low risk,1,115.65,70,Monitor and include in next email campaign,1387.8
+0.26304242,Low risk,0,105.75,40,Monitor and include in next email campaign,1269.0
+0.26241073,Low risk,1,50.7,4,Monitor and include in next email campaign,608.4
+0.26061374,Low risk,0,89.95,19,Monitor and include in next email campaign,1079.4
+0.2600895,Low risk,0,29.15,1,Monitor and include in next email campaign,349.8
+0.25949544,Low risk,0,85.5,55,Monitor and include in next email campaign,1026.0
+0.2586281,Low risk,0,84.8,44,Monitor and include in next email campaign,1017.6
+0.256575,Low risk,0,49.5,6,Monitor and include in next email campaign,594.0
+0.25538492,Low risk,1,99.2,40,Monitor and include in next email campaign,1190.4
+0.25458878,Low risk,0,56.3,12,Monitor and include in next email campaign,675.6
+0.25307122,Low risk,1,108.15,32,Monitor and include in next email campaign,1297.8
+0.25242716,Low risk,1,106.1,28,Monitor and include in next email campaign,1273.2
+0.251471,Low risk,1,60.4,4,Monitor and include in next email campaign,724.8
