@@ -169,6 +169,7 @@ Run notebooks in order:
 ![matplotlib](https://img.shields.io/badge/matplotlib-11557C?logo=python&logoColor=white)
 
 **Models used:** Logistic Regression · Random Forest · XGBoost
+
 **Evaluation:** Confusion Matrix · Precision / Recall · ROC-AUC
 
 ## Author/Contributors
